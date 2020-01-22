@@ -1,19 +1,19 @@
-#LiRun
+# LiRun
 A postgraduate of College of Intelligence and Computing of Tianjin University
 
-##Persional Information
+## Persional Information
 Name:
-###LiRun
+### LiRun
 Education Background:
-###Graduated from College of Intelligence and Computing of Tianjin University
-###Postgraduate at College of Intelligence and Computing of Tianjin University
+### Graduated from College of Intelligence and Computing of Tianjin University
+### Postgraduate at College of Intelligence and Computing of Tianjin University
 Email：
-###lirun@tju.edu.cn
+### lirun@tju.edu.cn
 
-##Research Field
-###Bayesian Optimization
-###few-shot learning
+## Research Field
+### Bayesian Optimization
+### few-shot learning
 
-##Research Project
+## Research Project
 Tianjin University and Huawei
-###Active exploration of small sample learning
+### Active exploration of small sample learning
